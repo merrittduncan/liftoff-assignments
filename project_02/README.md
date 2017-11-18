@@ -2,7 +2,13 @@
 
 ## Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+[Search](search.jpg)
+[Fabric Card](fabric card.jpg)
+[Pattern Card](pattern card.jpg)
+[Project Card](project card.jpg)
+[Checklist](checklist.jpg)
+[Matchmaker for Fabric Choice](matchmaker_fabric.jpg)
+[Matchmaker for Pattern Choice](matchmaker_pattern.jpg)
 
 ## Project Tracker
 
